@@ -1,0 +1,47 @@
+﻿country,code,region,weight
+Armenia,ARM,Central Asia,0.036719761
+Azerbaijan,AZE,Central Asia,0.118506167
+Georgia,GEO,Central Asia,0.048777128
+Kazakhstan,KAZ,Central Asia,0.434385366
+Kyrgyz Republic,KGZ,Central Asia,0.022665799
+Tajikistan,TJK,Central Asia,0.02708774
+Turkmenistan,TKM,Central Asia,0.116087767
+Uzbekistan,UZB,Central Asia,0.195770271
+"Hong Kong, China",HKG,East Asia,0.023770329
+Mongolia,MNG,East Asia,0.000735601
+People's Republic of China,CHN,East Asia,0.836067576
+Republic of Korea,KOR,East Asia,0.100223121
+"Taipei,China",TWN,East Asia,0.039203373
+Afghanistan,AFG,South Asia,0.005822179
+Bangladesh,BGD,South Asia,0.080823866
+Bhutan,BTN,South Asia,0.000666652
+India,IND,South Asia,0.781739678
+Maldives,MDV,South Asia,0.00137161
+Nepal,NPL,South Asia,0.007795264
+Pakistan,PAK,South Asia,0.096592115
+Sri Lanka,LKA,South Asia,0.025188635
+Brunei Darussalam,BRN,Southeast Asia,0.004371392
+Cambodia,KHM,Southeast Asia,0.007739311
+Indonesia,IDN,Southeast Asia,0.352781479
+Lao People’s Dem. Rep.,LAO,Southeast Asia,0.00595035
+Malaysia,MYS,Southeast Asia,0.114704018
+Myanmar,MMR,Southeast Asia,0.024135689
+Philippines,PHL,Southeast Asia,0.140472331
+Singapore,SGP,Southeast Asia,0.113855613
+Thailand,THA,Southeast Asia,0.157587982
+Timor-Leste,TLS,Southeast Asia,0.000791741
+Viet Nam,VNM,Southeast Asia,0.077610092
+Cook Islands,COK,The Pacific,0.010952777
+Federated States of Micronesia,WSM,The Pacific,0.011729292
+Fiji,FJI,The Pacific,0.158515337
+Kiribati,KIR,The Pacific,0.011135285
+Marshall Islands,MHL,The Pacific,0.00868487
+Nauru,NRU,The Pacific,0.00469006
+Niue,NIU,The Pacific,0
+Palau,PLW,The Pacific,0.009470252
+Papua New Guinea,PNG,The Pacific,0.676834086
+Samoa,WSM,The Pacific,0.024163858
+Solomon Islands,SLB,The Pacific,0.040317439
+Tonga,TON,The Pacific,0.013570135
+Tuvalu,TUV,The Pacific,0.001914139
+Vanuatu,VUT,The Pacific,0.02802247
