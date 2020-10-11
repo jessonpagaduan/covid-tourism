@@ -1,198 +1,198 @@
-﻿country,restriction_intensity,
-Afghanistan,0,
-Albania,0.5,
-Algeria,1,
-Andorra,0.5,
-Angola,0.5,
-Antigua and Barbuda,0.5,
-Argentina,1,
-Armenia,0.5,
-Australia,0.5,
-Austria,0.5,
-Azerbaijan,1,
-Bahamas,0.5,
-Bahrain,0.5,
-Bangladesh,0.5,
-Barbados,0.5,
-Belarus,0.5,
-Belgium,0.5,
-Belize,0.5,
-Benin,0.5,
-Bhutan,0.5,
-Bolivia,0.5,
-Bosnia and Herzegovina,0.5,
-Botswana,1,
-Brazil,0,
-Brunei,0.5,
-Bulgaria,0.5,
-Burkina Faso,0.5,
-Burundi,0.5,
-Cambodia,0.5,
-Cameroon,0.5,
-Canada,0.5,
-Cape Verde,0.5,
-Central African Republic,0.5,
-Chad,0.5,
-Chile,1,
-China,0.5,
-Colombia,0.5,
-Comoros,0.5,
-Congo,0.5,
-Democratic Republic of the Congo,0.5,
-Costa Rica,0.5,
-Ivory Coast,0.5,
-Croatia,0.5,
-Cuba,0.5,
-Cyprus,0.5,
-Czech Republic,0.5,
-Denmark,0.5,
-Djibouti,0.5,
-Dominica,0.5,
-Dominican Republic,0.5,
-Timor-Leste,0.5,
-Ecuador,0.5,
-Egypt,0.5,
-El Salvador,0.5,
-Equatorial Guinea,0.5,
-Eritrea,1,
-Estonia,0.5,
-Ethiopia,0.5,
-Fiji,0.5,
-Finland,0.5,
-France,0.5,
-Gabon,0.5,
-Gambia,0.5,
-Georgia,0.5,
-Germany,0.5,
-Ghana,0.5,
-Greece,0.5,
-Greenland,0.5,
-Grenada,0.5,
-Guatemala,0.5,
-Guinea,0.5,
-Guinea-Bissau,0.5,
-Guyana,1,
-Haiti,0,
-Honduras,0.5,
-Hungary,0.5,
-Iceland,0.5,
-India,0.5,
-Indonesia,0.5,
-Iran,0.5,
-Iraq,0.5,
-Ireland,0.5,
-Israel,0.5,
-Italy,0.5,
-Jamaica,0.5,
-Japan,0.5,
-Jordan,0.5,
-Kazakhstan,0.5,
-Kenya,0.5,
-Kiribati,0.5,
-North Korea,1,
-South Korea,0.5,
-Kosovo,0.5,
-Kuwait,0.5,
-Kyrgyzstan,0.5,
-Laos,1,
-Latvia,0.5,
-Lebanon,0.5,
-Lesotho,0.5,
-Liberia,0.5,
-Libya,1,
-Liechtenstein,0.5,
-Lithuania,0.5,
-Luxembourg,0.5,
-Republic of North Macedonia,0.5,
-Madagascar,1,
-Malawi,0.5,
-Malaysia,0.5,
-Maldives,0.5,
-Mali,0.5,
-Malta,0.5,
-Marshall Islands,0.5,
-Mauritania,0,
-Mauritius,0.5,
-Mexico,0,
-Federated States of Micronesia,0.5,
-Moldova,0.5,
-Monaco,0.5,
-Mongolia,1,
-Montenegro,0.5,
-Morocco,0.5,
-Mozambique,0.5,
-Myanmar,1,
-Namibia,0.5,
-Nauru,0.5,
-Nepal,0.5,
-Netherlands,0.5,
-New Zealand,0.5,
-Nicaragua,0.5,
-Niger,0.5,
-Nigeria,0.5,
-Norway,0.5,
-Oman,0.5,
-Pakistan,0.5,
-Palau,0.5,
-Panama,0.5,
-Papua New Guinea,1,
-Paraguay,0.5,
-Peru,0.5,
-Philippines,0.5,
-Poland,0.5,
-Portugal,0.5,
-Qatar,0.5,
-Romania,0.5,
-Russia,0.5,
-Rwanda,0.5,
-Saint Kitts and Nevis,0.5,
-Saint Lucia,0.5,
-Saint Vincent and the Grenadines,0.5,
-Samoa,0.5,
-San Marino,0.5,
-São Tomé and Príncipe,0.5,
-Saudi Arabia,0.5,
-Senegal,0.5,
-Serbia,0.5,
-Seychelles,0.5,
-Sierra Leone,0.5,
-Singapore,0.5,
-Slovakia,0.5,
-Slovenia,0.5,
-Solomon Islands,0.5,
-Somalia,0.5,
-South Africa,0.5,
-South Sudan,0.5,
-Spain,0.5,
-Sri Lanka,1,
-Sudan,0.5,
-Suriname,0.5,
-Swaziland,0.5,
-Sweden,0.5,
-Switzerland,0.5,
-Syria,1,
-Taiwan,0.5,
-Tajikistan,0.5,
-Tanzania,0.5,
-Thailand,0.5,
-Togo,0.5,
-Tonga,0.5,
-Trinidad and Tobago,0.5,
-Tunisia,0.5,
-Turkey,0,
-Turkmenistan,1,
-Tuvalu,0.5,
-Uganda,0.5,
-Ukraine,0.5,
-United Arab Emirates,0.5,
-United Kingdom,0.5,
-United States,0.5,
-Uruguay,1,
-Uzbekistan,0.5,
-Vanuatu,0.5,
-Vatican City,0.5,
-Venezuela,1,
-Vietnam,0.5,
-Yemen,0.5,
-Zambia,0.5,
-Zimbabwe,0.5,
+﻿Country,Intensity of Travel Restrictions,Restrictions
+Afghanistan,0,Not restrictive
+Albania,0.5,Partially restrictive
+Algeria,1,Totally restrictive
+Andorra,0.5,Partially restrictive
+Angola,0.5,Partially restrictive
+Antigua and Barbuda,0.5,Partially restrictive
+Argentina,1,Totally restrictive
+Armenia,0.5,Partially restrictive
+Australia,0.5,Partially restrictive
+Austria,0.5,Partially restrictive
+Azerbaijan,1,Totally restrictive
+Bahamas,0.5,Partially restrictive
+Bahrain,0.5,Partially restrictive
+Bangladesh,0.5,Partially restrictive
+Barbados,0.5,Partially restrictive
+Belarus,0.5,Partially restrictive
+Belgium,0.5,Partially restrictive
+Belize,0.5,Partially restrictive
+Benin,0.5,Partially restrictive
+Bhutan,0.5,Partially restrictive
+Bolivia,0.5,Partially restrictive
+Bosnia and Herzegovina,0.5,Partially restrictive
+Botswana,1,Totally restrictive
+Brazil,0,Not restrictive
+Brunei,0.5,Partially restrictive
+Bulgaria,0.5,Partially restrictive
+Burkina Faso,0.5,Partially restrictive
+Burundi,0.5,Partially restrictive
+Cambodia,0.5,Partially restrictive
+Cameroon,0.5,Partially restrictive
+Canada,0.5,Partially restrictive
+Cape Verde,0.5,Partially restrictive
+Central African Republic,0.5,Partially restrictive
+Chad,0.5,Partially restrictive
+Chile,1,Totally restrictive
+China,0.5,Partially restrictive
+Colombia,0.5,Partially restrictive
+Comoros,0.5,Partially restrictive
+Congo,0.5,Partially restrictive
+Democratic Republic of the Congo,0.5,Partially restrictive
+Costa Rica,0.5,Partially restrictive
+Ivory Coast,0.5,Partially restrictive
+Croatia,0.5,Partially restrictive
+Cuba,0.5,Partially restrictive
+Cyprus,0.5,Partially restrictive
+Czech Republic,0.5,Partially restrictive
+Denmark,0.5,Partially restrictive
+Djibouti,0.5,Partially restrictive
+Dominica,0.5,Partially restrictive
+Dominican Republic,0.5,Partially restrictive
+Timor-Leste,0.5,Partially restrictive
+Ecuador,0.5,Partially restrictive
+Egypt,0.5,Partially restrictive
+El Salvador,0.5,Partially restrictive
+Equatorial Guinea,0.5,Partially restrictive
+Eritrea,1,Totally restrictive
+Estonia,0.5,Partially restrictive
+Ethiopia,0.5,Partially restrictive
+Fiji,0.5,Partially restrictive
+Finland,0.5,Partially restrictive
+France,0.5,Partially restrictive
+Gabon,0.5,Partially restrictive
+Gambia,0.5,Partially restrictive
+Georgia,0.5,Partially restrictive
+Germany,0.5,Partially restrictive
+Ghana,0.5,Partially restrictive
+Greece,0.5,Partially restrictive
+Greenland,0.5,Partially restrictive
+Grenada,0.5,Partially restrictive
+Guatemala,0.5,Partially restrictive
+Guinea,0.5,Partially restrictive
+Guinea-Bissau,0.5,Partially restrictive
+Guyana,1,Totally restrictive
+Haiti,0,Not restrictive
+Honduras,0.5,Partially restrictive
+Hungary,0.5,Partially restrictive
+Iceland,0.5,Partially restrictive
+India,0.5,Partially restrictive
+Indonesia,0.5,Partially restrictive
+Iran,0.5,Partially restrictive
+Iraq,0.5,Partially restrictive
+Ireland,0.5,Partially restrictive
+Israel,0.5,Partially restrictive
+Italy,0.5,Partially restrictive
+Jamaica,0.5,Partially restrictive
+Japan,0.5,Partially restrictive
+Jordan,0.5,Partially restrictive
+Kazakhstan,0.5,Partially restrictive
+Kenya,0.5,Partially restrictive
+Kiribati,0.5,Partially restrictive
+North Korea,1,Totally restrictive
+South Korea,0.5,Partially restrictive
+Kosovo,0.5,Partially restrictive
+Kuwait,0.5,Partially restrictive
+Kyrgyzstan,0.5,Partially restrictive
+Laos,1,Totally restrictive
+Latvia,0.5,Partially restrictive
+Lebanon,0.5,Partially restrictive
+Lesotho,0.5,Partially restrictive
+Liberia,0.5,Partially restrictive
+Libya,1,Totally restrictive
+Liechtenstein,0.5,Partially restrictive
+Lithuania,0.5,Partially restrictive
+Luxembourg,0.5,Partially restrictive
+Republic of North Macedonia,0.5,Partially restrictive
+Madagascar,1,Totally restrictive
+Malawi,0.5,Partially restrictive
+Malaysia,0.5,Partially restrictive
+Maldives,0.5,Partially restrictive
+Mali,0.5,Partially restrictive
+Malta,0.5,Partially restrictive
+Marshall Islands,0.5,Partially restrictive
+Mauritania,0,Not restrictive
+Mauritius,0.5,Partially restrictive
+Mexico,0,Not restrictive
+Federated States of Micronesia,0.5,Partially restrictive
+Moldova,0.5,Partially restrictive
+Monaco,0.5,Partially restrictive
+Mongolia,1,Totally restrictive
+Montenegro,0.5,Partially restrictive
+Morocco,0.5,Partially restrictive
+Mozambique,0.5,Partially restrictive
+Myanmar,1,Totally restrictive
+Namibia,0.5,Partially restrictive
+Nauru,0.5,Partially restrictive
+Nepal,0.5,Partially restrictive
+Netherlands,0.5,Partially restrictive
+New Zealand,0.5,Partially restrictive
+Nicaragua,0.5,Partially restrictive
+Niger,0.5,Partially restrictive
+Nigeria,0.5,Partially restrictive
+Norway,0.5,Partially restrictive
+Oman,0.5,Partially restrictive
+Pakistan,0.5,Partially restrictive
+Palau,0.5,Partially restrictive
+Panama,0.5,Partially restrictive
+Papua New Guinea,1,Totally restrictive
+Paraguay,0.5,Partially restrictive
+Peru,0.5,Partially restrictive
+Philippines,0.5,Partially restrictive
+Poland,0.5,Partially restrictive
+Portugal,0.5,Partially restrictive
+Qatar,0.5,Partially restrictive
+Romania,0.5,Partially restrictive
+Russia,0.5,Partially restrictive
+Rwanda,0.5,Partially restrictive
+Saint Kitts and Nevis,0.5,Partially restrictive
+Saint Lucia,0.5,Partially restrictive
+Saint Vincent and the Grenadines,0.5,Partially restrictive
+Samoa,0.5,Partially restrictive
+San Marino,0.5,Partially restrictive
+São Tomé and Príncipe,0.5,Partially restrictive
+Saudi Arabia,0.5,Partially restrictive
+Senegal,0.5,Partially restrictive
+Serbia,0.5,Partially restrictive
+Seychelles,0.5,Partially restrictive
+Sierra Leone,0.5,Partially restrictive
+Singapore,0.5,Partially restrictive
+Slovakia,0.5,Partially restrictive
+Slovenia,0.5,Partially restrictive
+Solomon Islands,0.5,Partially restrictive
+Somalia,0.5,Partially restrictive
+South Africa,0.5,Partially restrictive
+South Sudan,0.5,Partially restrictive
+Spain,0.5,Partially restrictive
+Sri Lanka,1,Totally restrictive
+Sudan,0.5,Partially restrictive
+Suriname,0.5,Partially restrictive
+Swaziland,0.5,Partially restrictive
+Sweden,0.5,Partially restrictive
+Switzerland,0.5,Partially restrictive
+Syria,1,Totally restrictive
+Taiwan,0.5,Partially restrictive
+Tajikistan,0.5,Partially restrictive
+Tanzania,0.5,Partially restrictive
+Thailand,0.5,Partially restrictive
+Togo,0.5,Partially restrictive
+Tonga,0.5,Partially restrictive
+Trinidad and Tobago,0.5,Partially restrictive
+Tunisia,0.5,Partially restrictive
+Turkey,0,Not restrictive
+Turkmenistan,1,Totally restrictive
+Tuvalu,0.5,Partially restrictive
+Uganda,0.5,Partially restrictive
+Ukraine,0.5,Partially restrictive
+United Arab Emirates,0.5,Partially restrictive
+United Kingdom,0.5,Partially restrictive
+United States,0.5,Partially restrictive
+Uruguay,1,Totally restrictive
+Uzbekistan,0.5,Partially restrictive
+Vanuatu,0.5,Partially restrictive
+Vatican City,0.5,Partially restrictive
+Venezuela,1,Totally restrictive
+Vietnam,0.5,Partially restrictive
+Yemen,0.5,Partially restrictive
+Zambia,0.5,Partially restrictive
+Zimbabwe,0.5,Partially restrictive
