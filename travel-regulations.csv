@@ -1,6 +1,6 @@
 ﻿Country,Intensity of Travel Restrictions,Restrictions
 Afghanistan,0,Not restrictive
-Albania,0.5,Partially restrictive
+Albania,0,Not restrictive
 Algeria,1,Totally restrictive
 Andorra,0.5,Partially restrictive
 Angola,0.5,Partially restrictive
@@ -23,14 +23,14 @@ Bolivia,0.5,Partially restrictive
 Bosnia and Herzegovina,0.5,Partially restrictive
 Botswana,1,Totally restrictive
 Brazil,0,Not restrictive
-Brunei,0.5,Partially restrictive
+Brunei,1,Totally restrictive
 Bulgaria,0.5,Partially restrictive
 Burkina Faso,0.5,Partially restrictive
-Burundi,0.5,Partially restrictive
+Burundi,1,Totally restrictive
 Cambodia,0.5,Partially restrictive
 Cameroon,0.5,Partially restrictive
 Canada,0.5,Partially restrictive
-Cape Verde,0.5,Partially restrictive
+Cape Verde,1,Totally restrictive
 Central African Republic,0.5,Partially restrictive
 Chad,0.5,Partially restrictive
 Chile,1,Totally restrictive
@@ -56,12 +56,14 @@ El Salvador,0.5,Partially restrictive
 Equatorial Guinea,0.5,Partially restrictive
 Eritrea,1,Totally restrictive
 Estonia,0.5,Partially restrictive
+Eswatini,1,Totally restrictive
 Ethiopia,0.5,Partially restrictive
-Fiji,0.5,Partially restrictive
+Falkland Islands,1,Totally restrictive
+Fiji,1,Totally restrictive
 Finland,0.5,Partially restrictive
 France,0.5,Partially restrictive
 Gabon,0.5,Partially restrictive
-Gambia,0.5,Partially restrictive
+Gambia,1,Totally restrictive
 Georgia,0.5,Partially restrictive
 Germany,0.5,Partially restrictive
 Ghana,0.5,Partially restrictive
@@ -81,7 +83,7 @@ Indonesia,0.5,Partially restrictive
 Iran,0.5,Partially restrictive
 Iraq,0.5,Partially restrictive
 Ireland,0.5,Partially restrictive
-Israel,0.5,Partially restrictive
+Israel,1,Totally restrictive
 Italy,0.5,Partially restrictive
 Jamaica,0.5,Partially restrictive
 Japan,0.5,Partially restrictive
@@ -103,7 +105,7 @@ Libya,1,Totally restrictive
 Liechtenstein,0.5,Partially restrictive
 Lithuania,0.5,Partially restrictive
 Luxembourg,0.5,Partially restrictive
-Republic of North Macedonia,0.5,Partially restrictive
+Republic of North Macedonia,0,Not restrictive
 Madagascar,1,Totally restrictive
 Malawi,0.5,Partially restrictive
 Malaysia,0.5,Partially restrictive
@@ -153,7 +155,7 @@ San Marino,0.5,Partially restrictive
 São Tomé and Príncipe,0.5,Partially restrictive
 Saudi Arabia,0.5,Partially restrictive
 Senegal,0.5,Partially restrictive
-Serbia,0.5,Partially restrictive
+Serbia,0,Not restrictive
 Seychelles,0.5,Partially restrictive
 Sierra Leone,0.5,Partially restrictive
 Singapore,0.5,Partially restrictive
@@ -189,7 +191,7 @@ United Kingdom,0.5,Partially restrictive
 United States,0.5,Partially restrictive
 Uruguay,1,Totally restrictive
 Uzbekistan,0.5,Partially restrictive
-Vanuatu,0.5,Partially restrictive
+Vanuatu,1,Totally restrictive
 Vatican City,0.5,Partially restrictive
 Venezuela,1,Totally restrictive
 Vietnam,0.5,Partially restrictive
